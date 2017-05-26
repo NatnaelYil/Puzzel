@@ -1,0 +1,19 @@
+.table {
+  border-style:groove;
+  border-color:dimgray;
+  border-width: 30px;
+  margin: 100px;
+}
+.slot {
+  width: 100px;
+  height: 100px;
+  margin: 1px;
+  text-align: center;
+  background-color:cadetblue;
+  font-weight: bold;
+  font-size: x-large;
+  padding: 20px;
+}
+.empty {
+  background-color: white;
+}
